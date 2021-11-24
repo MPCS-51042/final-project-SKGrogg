@@ -1,0 +1,3 @@
+<form action="/working">
+    <input type="submit" value="Work in Progress" />
+</form>
