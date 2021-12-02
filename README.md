@@ -34,8 +34,8 @@ README FINAL
 
 # GETTING STARTED
 
-Ensure that you download the entirety of thee "Final Project", which contains files app_main.py,
-classes.py, Pipfile, Pipfile.lock, and a subfolder called Templates. All of those files are needed for
+Ensure that you download the entirety of the "Final Project" folder from Github, which contains files app_main.py,
+classes.py, Pipfile, Pipfile.lock, a "README final.txt" (which is a copy of this information), and a subfolder called Templates. All of those files are needed for
 this app to run, so be sure they are all there.
 
 This app is reliant on a the Pipenv virtual environment tool. Please be sure you have it installed on your
